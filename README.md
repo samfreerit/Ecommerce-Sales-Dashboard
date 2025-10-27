@@ -59,4 +59,4 @@ Phones generate the highest profit among sub-categories.
 October records peak profit performance.
 
 4. Screenshots / Demos:
-   
+   https://github.com/samfreerit/Ecommerce-Sales-Dashboard/blob/main/ECS.png
